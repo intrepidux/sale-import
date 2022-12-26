@@ -19,7 +19,6 @@
     "data": [
         "data/sale_exception.xml",
         "views/sale_channel.xml",
-        "views/payment_acquirer_view.xml",
     ],
     "demo": ["demo/demo.xml"],
     "installable": True,
